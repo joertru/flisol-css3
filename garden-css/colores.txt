@@ -1,0 +1,21 @@
+Naranja fondo: #eec400
+Negro borde: #0B0B0B;
+verde fondo: #D0F5A9
+verde borde: #38610B;
+gris texto: #B45F04
+
+verde oscuro borde: #0B610B;
+color texto parrafo 1: #D8D8D8
+color link: #DF7401
+
+fondo caja parrafo: #A9F5F2
+fondo borde caja parrafo: #BDBDBD
+
+color texto parrafo 2: #084B8A
+color fucsia: #FE2E9A
+
+color fondo amarillo: #F2F5A9
+color borde naranja: #DF7401
+
+color enlace negro: #393B0B
+

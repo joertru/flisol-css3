@@ -1,0 +1,10 @@
+Gris del fondo: #A9A9A9
+Gris del borde: #52606D
+Amarillo Texto: yellow - Tahoma
+verde texto: #6B8E23 - Arial
+Gris Texto: #848463 - Tahoma
+fucisa Texto: #FF1493 - Verdana  
+rojo fondo: #B22222
+amarillo texto: #F0E68C
+marron texto: #B8860B
+
